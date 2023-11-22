@@ -1,5 +1,5 @@
 body{
-    background: rgba(255, 0, 0, 0.349);
+    background: rgba(8, 8, 8, 0.349);
 }
 h1{
     text-align: center;
@@ -28,7 +28,7 @@ img{
     margin-left: 500px;
 }
 .item_lista_cabecalho{
-    color: rgb(32, 106, 133);
+    color: rgb(184, 191, 194);
     list-style: none;
     text-transform: uppercase;
     font-size: 10px;
