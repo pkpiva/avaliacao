@@ -4,12 +4,12 @@ body{
 h1{
     text-align: center;
     font-size:  40px;
-    color: brown;
+    color: rgb(10, 2, 2);
 }
 p{
     text-align: center;
     font-size: 30px;
-    color: brown;
+    color: rgb(31, 7, 7);
 }
 img{
     width: 300px;
